@@ -1,0 +1,589 @@
+@charset "utf-8";
+
+body 
+{
+    background: #082b59;
+}
+
+
+/* Menu */
+nav
+{
+	margin-top: 20px;
+	border-radius: 5px;
+}
+
+.navbar-nav
+{
+	gap: 35px;
+}
+
+.nav-link
+{
+	font-size: 17px;
+	font-weight: bold;
+	color: #000 !important;
+}
+
+.nav-link:hover
+{
+	color: #f58934 !important;
+}
+
+.logomarca
+{
+	width: 90%;
+	height: 50px;
+}
+
+.logotipo
+{
+	margin-left: 1%;
+	margin-right: 2%;
+	width: 90%;
+	height: 50px;
+}
+
+.login
+{
+	width: 80px;
+	height: 29px;
+	background-color: #f58934;
+	border-color: #f58934;
+	border-radius: 15px;
+	color: white;
+	font-weight: bold;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.login:hover
+{
+	width: 80px;
+	height: 29px;
+	background-color: #082b59;
+	border-color: #082b59;
+	border-radius: 15px;
+	color: white;
+	font-weight: bold;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+
+/* Index */
+.container
+{
+	margin-top: 30px;
+	background-color: white;	
+	border-radius: 5px;
+}
+
+.video
+{
+	margin-top: 12px;
+	margin-bottom: 12px;
+	width: 100%;
+	height: 400px;
+}
+
+.cards
+{
+    display: flex;
+}
+
+.letra_card
+{
+	color: white;
+	font-size: 22px;
+	font-weight: bold;
+	text-align: center;
+}
+
+.cards .imagem_card
+{
+	width: 60%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+/* Calculadora Solar */
+.titulo
+{
+	color: black;
+	font-size: 22px;
+	font-weight: bold;
+	text-align: center;
+}
+
+.texto_input
+{
+	margin-top: 25px;
+	margin-bottom: 25px;
+	width: 100%;
+	color: black;
+	font-size: 17px;
+	font-weight: bold;
+	text-align: center;
+}
+
+.form-control
+{
+	width: 60%;
+	border-width: 2px;
+	border-color: #f58934;
+	border-radius: 8px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+.concessionaria
+{
+	width: 60%;
+	border-width: 2px;
+	border-color: #f58934;
+	border-radius: 8px;
+	padding: 7px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+.botao
+{
+	margin-top: 40px;
+	width: 60%;
+	height: 40px;
+	background-color: #f58934;
+	border-color: #f58934;
+	border-radius: 15px;
+	text-align: center;
+	color: white;
+	font-weight: bold;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.botao:hover
+{
+	margin-top: 40px;
+	width: 60%;
+	height: 40px;
+	background-color: #082b59;
+	border-color: #082b59;
+	border-radius: 15px;
+	text-align: center;
+	color: white;
+	font-weight: bold;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+/* Simulador Solar */
+.texto_simulador
+{
+	margin-top: 18px;
+	margin-bottom: 32px;
+	color: black;
+	font-size: 17px;
+	font-weight: bold;
+}
+
+
+/* Orçamento, Trabalhe Conosco, Adicionar Vagas */
+.texto_input_cadastro
+{
+	margin-top: 18px;
+	margin-bottom: 18px;
+	color: black;
+	font-size: 17px;
+	font-weight: bold;
+}
+
+input[type="date"]::-webkit-calendar-picker-indicator 
+{
+	cursor: pointer;
+	filter: invert(0.8) brightness(50%) sepia(100%) saturate(1500%) hue-rotate(20deg);
+}
+
+.horario
+{
+	border-width: 2px;
+	border-color: #f58934;
+	border-radius: 8px;
+	padding: 7px;
+}
+
+.mensagem_textarea
+{
+	width: 100%;
+	height: auto;
+}
+
+.mensagem
+{
+	margin-top: 13px;
+	width: 96.2%;
+	border-width: 2px;
+	border-color: #f58934;
+	border-radius: 8px;
+	text-align: justify;
+	padding: 2.5%;
+	outline: none;
+	resize: none;
+}
+
+.input_icone
+{
+	position: relative;
+	display: inline;
+}
+
+.input_icone i
+{
+	position: absolute;
+	right: 13%;
+	top: 12px;
+}
+
+.input_icone_linkedIn
+{
+	position: relative;
+	display: inline;
+}
+
+.input_icone_linkedIn i
+{
+	font-size: 19px;
+	position: absolute;
+	right: 12%;
+	top: 10px;
+}
+
+.input_icone_email
+{
+	position: relative;
+	display: inline;
+}
+
+.input_icone_email i
+{
+	font-size: 19px;
+	position: absolute;
+	right: 4%;
+	top: 10px;
+}
+
+
+/* Contato */
+.contato
+{
+	margin-top: 27px;
+	background: #fdf0e6;
+	border: 2px solid #f58934;
+	border-radius: 5px;
+}
+
+.titulo_contato
+{
+	margin-top: 15px;
+	margin-left: 4%;
+	margin-right: 4%;
+	background: white;
+	border: 1px solid #f58934;
+	border-radius: 5px;
+	color: black;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: center;
+	padding: 4px;
+}
+
+.mapa
+{
+	margin-left: 20px;
+	margin-right: 20px;
+    overflow: hidden;
+    padding-bottom: 26%;
+    position: relative;
+	display: flex;
+	justify-content: center;
+}
+
+.mapa iframe
+{
+	margin-top: 5px;
+    height: 100%;
+    width: 95%;
+    position: absolute;
+}
+
+.letra_contato
+{
+	margin-left: 4%;
+	margin-right: 4%;
+	background: #f1f3f4;
+	border-top: 1px solid #f58934;
+	color: black;
+	font-size: 17px;
+	font-weight: bold;
+	text-align: center;
+	padding: 8px;
+}
+
+
+/* Login */
+.input_icone_login
+{
+	position: relative;
+}
+
+.input_icone_login i
+{
+	position: absolute;
+	right: 24%;
+	top: 12px;
+}
+
+
+/* Agendamento */
+input[type="time"]::-webkit-calendar-picker-indicator 
+{
+	cursor: pointer;
+	filter: invert(0.8) brightness(50%) sepia(100%) saturate(1500%) hue-rotate(20deg);
+}
+
+.calendar
+{
+	margin-top: 30px;
+	height:230px !important;
+	width:322px !important;
+	border: 2px solid #f58934 !important;
+	border-radius: 8px;
+	color: #f58934;
+	font-weight: bold;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	outline: none;
+}
+
+.calendar-header 
+{
+   background-color: white !important;
+}
+
+
+/* Funcionamento */
+.card
+{
+	margin-top: 20px;
+	margin-bottom: 20px;
+	background: #fdf0e6;
+	border: 2px solid #f58934;
+	border-radius: 5px;
+}
+
+.titulo_funcionamento
+{
+	margin-top: 4px;
+	background: white;
+	border: 1px solid #f58934;
+	border-radius: 5px;
+	color: black;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+	padding: 4px;
+}
+
+.texto_funcionamento
+{
+	margin-top: 5px;
+	margin-bottom: 10px;
+	color: black;
+	font-size: 17px;
+	text-align: justify;
+}
+
+.imagem_funcionamento
+{
+	margin-top: 25px;
+	margin-bottom: 10px;
+	height: 76%;
+	width: 80%;
+	border: 1px solid #f58934;
+	border-radius: 5px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.texto_solucoes
+{
+	margin-top: 5px;
+	margin-bottom: 0px;
+	color: black;
+	font-size: 17px;
+	text-align: center;
+}
+
+.icone 
+{
+	margin-top: 10px;
+	color: #f58934;
+	font-size: 70px;
+	text-align: center;
+}
+
+.imagem_vantagens
+{
+	margin-top: 4px;
+	margin-left: 4px;
+	margin-right: 4px;
+	border: 1px solid #f58934;
+	border-radius: 5px;
+}
+
+.list-group-item
+{
+	color: black;
+	font-size: 17px;
+}
+
+.carousel
+{
+	margin-top: 37px;
+	background: #fdf0e6;
+	border: 2px solid #f58934;
+	border-radius: 5px;
+}
+
+.imagem_carousel
+{
+	margin-top: 5px;
+	margin-bottom: 20px;
+	width: 60%;
+	height: 20%;
+	border: 1px solid #f58934;
+	border-radius: 5px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.carousel-control-next
+{
+	color: #f58934;
+}
+
+.seta
+{
+	color: #f58934;
+	font-size: 35px;
+}
+
+
+/* Listagem dos Orçamentos e Candidatos */
+.texto_lista_orcamento
+{
+	margin-top: 25px;
+	margin-bottom: 25px;
+	width: 100%;
+	color: black;
+	font-size: 17px;
+	font-weight: bold;
+	text-align: center;
+}
+
+.lista
+{
+	margin-top: 27px;
+	background: #fdf0e6;
+	border: 2px solid #f58934;
+	border-radius: 5px;
+}
+
+.form-control
+{
+	width: 60%;
+	border-width: 2px;
+	border-color: #f58934;
+	border-radius: 8px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+
+/* Listagem das Vagas */
+.titulo_vaga
+{
+	color: #082b59;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.texto_vaga
+{
+	color: black;
+	font-size: 17px;
+	font-weight: bold;
+	text-align: justify;
+}
+
+a.links
+{
+	display: block;
+	width: 91.1%;
+	text-align: center;
+	color: #082b59;
+	border: 2px solid #f58934;
+	background: #e9ecef; 
+	border-radius: 8px;
+	padding: 6px;
+}
+footer{
+	background-color: #f58934;
+	color: #fff;
+	text-align:center;
+	bottom: 0;
+	width: 100%;
+	height: 40px;
+	display: flex;
+	align-items:center;
+	border-radius:12px;
+	padding:3%;
+	margin: 10 px;
+	position:relative;
+	font-size: 18px;
+}
+
+.social-icons a {
+	color: #ffffff;
+	margin:  5px;	
+}
+.social-icons i{
+	font-size: 24px;
+}
+
+.texto{
+	font-size: 18px;
+	text-align: center;
+}

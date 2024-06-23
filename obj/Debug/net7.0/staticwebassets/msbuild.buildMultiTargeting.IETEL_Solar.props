@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\IETEL_Solar.props" />
+</Project>

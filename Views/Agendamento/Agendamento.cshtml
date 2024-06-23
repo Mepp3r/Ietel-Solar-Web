@@ -1,0 +1,148 @@
+<!doctype html>
+  <html lang="pt-br">
+	<head>
+	<meta charset="utf-8">
+        <title> Agendamento </title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        
+        <!-- Bootstrap e CSS -->
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+        <link href="~/css/estilo.css" rel="stylesheet" type="text/css">
+
+        <!-- Easy UI e Jquery -->
+        <link rel="stylesheet" type="text/css" href="https://www.jeasyui.com/easyui/themes/default/easyui.css">
+        <script type="text/javascript" src="https://code.jquery.com/jquery-1.12.4.min.js"> </script>
+        <script type="text/javascript" src="https://www.jeasyui.com/easyui/jquery.easyui.min.js"> </script>
+
+	</head>
+
+	<body>
+
+        <!-- Menu Responsivo -->
+        <nav class="navbar navbar-expand-lg navbar-light bg-white">
+            
+            <div class="container-fluid">
+                
+                <a> <img class="logomarca" src="~/imagens/logo_ietel.png">  </a>
+                <a> <img class="logotipo"  src="~/imagens/letra_ietel.png"> </a>
+
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <div class="collapse navbar-collapse" id="navbarNav">
+                    <ul class="navbar-nav" style="gap: 80px">
+
+                        <li class="nav-item">
+                            <a class="nav-link" href="/agendamento/agendamento"> Agendamento </a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link" href="/orcamento/listaOrcamento"> Lista de Orçamentos </a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link" href="/vaga/adicionaVaga"> Adicionar Vagas </a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link" href="/vaga/listaVaga"> Lista de Candidatos </a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link" href="/informacao/index"> <button class="login"> Sair </button> </a>
+                        </li>
+
+                    </ul>
+                </div>
+            </div>
+        </nav>
+
+
+        <!-- Agendamento -->
+	    <div class="container" style="padding: 1.7%;"> 
+
+
+            <!-- Título -->
+            <p class="titulo"> Agendamento do <font color="#f58934"> ORÇAMENTO </font>: </p>
+
+
+            <!-- Formulário de Cadastro -->
+		    <form action="/agendamento/agendamento" method="POST" enctype="multipart/form-data">
+      
+
+                <!-- Data -->
+                <div class="form-group">
+                    <div class="col-md-6 offset-md-3">
+                        <label class="texto_input" style="margin-top: 6px;"> Data: </label>
+                        <input type="date" id="data" name="data" class="form-control" required placeholder="_ _ / _ _ / _ _ _ _">
+                    </div>
+                </div>
+
+    
+                <!-- Horário -->
+                <div class="form-group">
+                    <div class="col-md-6 offset-md-3">
+                        <label class="texto_input"> Horário: </label>
+                        <input type="time" id="horario" name="horario" class="form-control" required placeholder="_ _ : _ _">
+                    </div>
+                </div>
+                
+
+                <!-- Celendário -->
+                <div id="calendario_agenda" class="calendar"> </div>
+
+
+                <!-- Botão -->
+                <div class="form-group">
+                    <div class="col-md-6 offset-md-3">
+                        <input type="submit" value="AGENDAR" name="agendar" id="agendar" class="botao" style="margin-top: 30px;">
+                    </div>
+                </div>
+
+            </form>
+        </div>
+
+	</body>
+  </html>
+
+
+
+  <!-- Não mostra datas anteriores -->
+  <script>
+    var hoje = new Date();
+    hoje.setDate(hoje.getDate() + 1);
+    hoje = hoje.toISOString().split('T')[0];                      
+    document.getElementsByName("data")[0].setAttribute('min', hoje);
+  </script>
+  
+  
+  <!-- Calendário -->
+  <script>
+    $('#calendario_agenda').calendar({
+        weeks: ['D','S','T','Q','Q','S','S'],
+        months: ['JANEIRO', 'FEVEREIRO', 'MARÇO', 'ABRIL', 'MAIO', 'JUNHO', 
+        'JULHO', 'AGOSTO', 'SETEMBRO', 'OUTUBRO', 'NOVEMBRO', 'DEZEMBRO']
+        });
+  </script>
+
+
+  <script>
+    $('#calendario_agenda').calendar({
+        onSelect:function(date)
+        {
+            var date = date.getFullYear() + "-" + (date.getMonth()+1) + "-" + date.getDate();
+            var request = $.ajax({
+                url: "/agendamento/listaAgendamento/",
+                type: "POST",
+                data: {date : date},
+                dataType: "html"
+            });
+
+            request.done(function(lista)
+            {
+                alert(lista);
+            });
+        }
+    });
+  </script>

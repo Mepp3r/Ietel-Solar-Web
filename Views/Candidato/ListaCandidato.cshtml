@@ -1,0 +1,166 @@
+@model List<Candidato>
+
+<!doctype html>
+  <html lang="pt-br">
+	<head>
+	<meta charset="utf-8">
+        <title> Trabalhe Conosco </title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        
+        <!-- Bootstrap e CSS -->
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" />
+        <link href="~/css/estilo.css" rel="stylesheet" type="text/css">
+
+        <!-- JQuery -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"> </script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/1.14.15/jquery.mask.min.js"></script> 
+        
+	</head>
+
+	<body>
+
+        <!-- Menu Responsivo -->
+        <nav class="navbar navbar-expand-lg navbar-light bg-white">
+            
+            <div class="container-fluid">
+                
+                <a> <img class="logomarca" src="~/imagens/logo_ietel.png">  </a>
+                <a> <img class="logotipo"  src="~/imagens/letra_ietel.png"> </a>
+
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <div class="collapse navbar-collapse" id="navbarNav">
+                    <ul class="navbar-nav" style="gap: 80px">
+
+                        <li class="nav-item">
+                            <a class="nav-link" href="/agendamento/agendamento"> Agendamento </a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link" href="/orcamento/listaOrcamento"> Lista de Orçamentos </a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link" href="/vaga/adicionaVaga"> Adicionar Vagas </a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link" href="/vaga/listaVaga"> Lista de Candidatos </a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link" href="/informacao/index"> <button class="login"> Sair </button> </a>
+                        </li>
+
+                    </ul>
+                </div>
+            </div>
+        </nav>
+
+
+        <!-- Listagem dos Candidatos -->
+	    <div class="container" style="padding: 1.7%;"> 
+
+
+            <!-- Título -->
+            <p class="titulo"> Listagem dos <font color="#f58934"> CANDIDATOS </font>: </p>
+
+
+            @foreach (var candidato in Model)
+            {
+                <div class="lista">
+
+                    <table width="100%" style="margin-top: 15px; margin-left: 15px;">
+                        <tr>
+                            <!-- Nome --> 
+                            <td> <label class="texto_input_cadastro" style="margin-right: 42px;"> Nome: </label> </td>
+                            <td width="92%"> <input value="@candidato.Nome" type="text" id="nome" name="nome" class="form-control" style="width: 96%; margin-left: 0px;" disabled> </td>
+                        </tr>
+                    </table>
+                    
+
+                    <table width="100%" style="margin-left: 15px;">
+                        <tr>
+                            <!-- CPF --> 
+                            <td> <label class="texto_input_cadastro" style="margin-right: 61px;"> CPF:  </label> </td>            
+                            <td width="40%">
+                                <input value="@candidato.CPF" type="text" name="cpf" id="cpf" class="form-control" style="width: 99.5%; margin-left: 0px;" disabled> 
+                            </td>
+
+                            <!-- Telefone --> 
+                            <td> <label class="texto_input_cadastro" style="margin-left: 26px; margin-right: 16px;"> Telefone: </label> </td>
+                            <td width="44%">
+                                <div class="input_icone">
+                                    <input value="@candidato.Telefone" type="text" id="telefone" name="telefone" class="form-control" style="width: 91%; margin-left: 0px;" disabled>
+                                    <i class="fas fa-phone " style="color: #f58934;"> </i>
+                                </div>
+                            </td>
+                        </tr>
+                    </table>
+
+
+                    <table width="100%" style="margin-left: 15px;">
+                        <tr>
+                            <!-- Cidade --> 
+                            <td> <label class="texto_input_cadastro" style="margin-right: 36px;"> Cidade: </label> </td>
+                            <td width="40%">
+                                <input value="@candidato.Cidade" type="text" id="cidade" name="cidade" class="form-control" style="width: 100%; margin-left: 0px;" disabled>
+                            </td>
+                        
+                            <!-- LinkedIn --> 
+                            <td> <label class="texto_input_cadastro" style="margin-left: 26px; margin-right: 20px;"> LinkedIn: </label> </td>
+                            <td width="44%">
+                                <div class="input_icone_linkedIn">
+                                    <input value="@candidato.Linkedin" type="text" id="linkedIn" name="linkedIn" class="form-control" style="width: 91%; margin-left: 0px;" disabled>
+                                    <i class="fa-brands fa-linkedin" style="color: #f58934;"> </i>
+                                </div>
+                            </td>
+                        </tr>
+                    </table>
+
+
+                    <table width="100%" style="margin-left: 15px;">
+                        <tr>
+                            <!-- E-mail --> 
+                            <td> <label class="texto_input_cadastro" style="margin-right:49px;"> Email: </label> </td>
+                            <td width="40.4%">
+                                <div class="input_icone_email">
+                                    <input value="@candidato.Email" type="email" id="email" name="email" class="form-control" style="width: 100%; margin-left: 0px;" disabled>
+                                    <i class="fa fa-envelope" style="color: #f58934;"> </i>
+                                </div>
+                            </td>
+
+                            <!-- Currículo --> 
+                            <td> <label class="texto_input_cadastro" style="margin-left: 26px; margin-right: 19px;"> Currículo: </label> </td>
+                            <td width="44%">
+                                <div class="input_icone">
+                                    <a class="links" href="/uploads/@candidato.FileName"> @candidato.FileName </a>
+                                    <i class="fas fa-paperclip" style="color: #f58934;"> </i>
+                                </div>
+                            </td>
+                        </tr>
+                    </table>
+
+
+                    <table width="100%" style="margin-left: 15px; margin-bottom: 20px;">
+                        <tr>
+                            <!-- Mensagem --> 
+                            <td width="7%"> <label class="texto_input_cadastro" style="margin-right: 6px;"> Mensagem: </label> </td>
+                            <td > 
+                                <div class="mensagem_textarea">
+                                    <textarea class="mensagem" id="mensagem" name="mensagem" disabled style="background: #e9ecef;"> @candidato.Mensagem </textarea>
+                                </div> 
+                            </td>
+                        </tr>
+                    </table>
+
+                </div>
+            }
+        </div>
+
+	</body>
+  </html>

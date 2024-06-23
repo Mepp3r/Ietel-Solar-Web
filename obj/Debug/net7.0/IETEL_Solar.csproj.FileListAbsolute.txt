@@ -1,0 +1,443 @@
+C:\Users\Gabrielly\IETEL_Solar\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Gabrielly\IETEL_Solar\bin\Debug\net7.0\appsettings.json
+C:\Users\Gabrielly\IETEL_Solar\bin\Debug\net7.0\IETEL_Solar.exe
+C:\Users\Gabrielly\IETEL_Solar\bin\Debug\net7.0\IETEL_Solar.deps.json
+C:\Users\Gabrielly\IETEL_Solar\bin\Debug\net7.0\IETEL_Solar.runtimeconfig.json
+C:\Users\Gabrielly\IETEL_Solar\bin\Debug\net7.0\IETEL_Solar.dll
+C:\Users\Gabrielly\IETEL_Solar\bin\Debug\net7.0\IETEL_Solar.pdb
+C:\Users\Gabrielly\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabrielly\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.AssemblyInfoInputs.cache
+C:\Users\Gabrielly\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.AssemblyInfo.cs
+C:\Users\Gabrielly\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.csproj.CoreCompileInputs.cache
+C:\Users\Gabrielly\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gabrielly\IETEL_Solar\obj\Debug\net7.0\staticwebassets\msbuild.IETEL_Solar.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Gabrielly\IETEL_Solar\obj\Debug\net7.0\staticwebassets\msbuild.build.IETEL_Solar.props
+C:\Users\Gabrielly\IETEL_Solar\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.IETEL_Solar.props
+C:\Users\Gabrielly\IETEL_Solar\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.IETEL_Solar.props
+C:\Users\Gabrielly\IETEL_Solar\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Gabrielly\IETEL_Solar\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Gabrielly\IETEL_Solar\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Gabrielly\IETEL_Solar\obj\Debug\net7.0\scopedcss\bundle\IETEL_Solar.styles.css
+C:\Users\Gabrielly\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.dll
+C:\Users\Gabrielly\IETEL_Solar\obj\Debug\net7.0\refint\IETEL_Solar.dll
+C:\Users\Gabrielly\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.pdb
+C:\Users\Gabrielly\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.genruntimeconfig.cache
+C:\Users\Gabrielly\IETEL_Solar\obj\Debug\net7.0\ref\IETEL_Solar.dll
+C:\Users\Gabrielly\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.RazorAssemblyInfo.cache
+C:\Users\Gabrielly\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.RazorAssemblyInfo.cs
+C:\Users\Gabrielly\IETEL_Solar\bin\Debug\net7.0\IETEL_Solar.staticwebassets.runtime.json
+D:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\bin\Debug\net7.0\appsettings.Development.json
+D:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\bin\Debug\net7.0\appsettings.json
+D:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\bin\Debug\net7.0\IETEL_Solar.staticwebassets.runtime.json
+D:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\bin\Debug\net7.0\IETEL_Solar.exe
+D:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\bin\Debug\net7.0\IETEL_Solar.deps.json
+D:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\bin\Debug\net7.0\IETEL_Solar.runtimeconfig.json
+D:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\bin\Debug\net7.0\IETEL_Solar.dll
+D:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\bin\Debug\net7.0\IETEL_Solar.pdb
+D:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.AssemblyInfoInputs.cache
+D:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.AssemblyInfo.cs
+D:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.csproj.CoreCompileInputs.cache
+D:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.MvcApplicationPartsAssemblyInfo.cache
+D:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.RazorAssemblyInfo.cache
+D:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.RazorAssemblyInfo.cs
+D:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\obj\Debug\net7.0\staticwebassets\msbuild.IETEL_Solar.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\obj\Debug\net7.0\staticwebassets\msbuild.build.IETEL_Solar.props
+D:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.IETEL_Solar.props
+D:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.IETEL_Solar.props
+D:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\obj\Debug\net7.0\staticwebassets.build.json
+D:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\obj\Debug\net7.0\staticwebassets.development.json
+D:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\obj\Debug\net7.0\scopedcss\bundle\IETEL_Solar.styles.css
+D:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.dll
+D:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\obj\Debug\net7.0\refint\IETEL_Solar.dll
+D:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.pdb
+D:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.genruntimeconfig.cache
+D:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\obj\Debug\net7.0\ref\IETEL_Solar.dll
+G:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\bin\Debug\net7.0\appsettings.Development.json
+G:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\bin\Debug\net7.0\appsettings.json
+G:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\bin\Debug\net7.0\IETEL_Solar.staticwebassets.runtime.json
+G:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\bin\Debug\net7.0\IETEL_Solar.exe
+G:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\bin\Debug\net7.0\IETEL_Solar.deps.json
+G:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\bin\Debug\net7.0\IETEL_Solar.runtimeconfig.json
+G:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\bin\Debug\net7.0\IETEL_Solar.dll
+G:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\bin\Debug\net7.0\IETEL_Solar.pdb
+G:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.GeneratedMSBuildEditorConfig.editorconfig
+G:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.AssemblyInfoInputs.cache
+G:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.AssemblyInfo.cs
+G:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.csproj.CoreCompileInputs.cache
+G:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.MvcApplicationPartsAssemblyInfo.cache
+G:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.RazorAssemblyInfo.cache
+G:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.RazorAssemblyInfo.cs
+G:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\obj\Debug\net7.0\staticwebassets\msbuild.IETEL_Solar.Microsoft.AspNetCore.StaticWebAssets.props
+G:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\obj\Debug\net7.0\staticwebassets\msbuild.build.IETEL_Solar.props
+G:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.IETEL_Solar.props
+G:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.IETEL_Solar.props
+G:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\obj\Debug\net7.0\staticwebassets.pack.json
+G:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\obj\Debug\net7.0\staticwebassets.build.json
+G:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\obj\Debug\net7.0\staticwebassets.development.json
+G:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\obj\Debug\net7.0\scopedcss\bundle\IETEL_Solar.styles.css
+G:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.dll
+G:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\obj\Debug\net7.0\refint\IETEL_Solar.dll
+G:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.pdb
+G:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.genruntimeconfig.cache
+G:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\obj\Debug\net7.0\ref\IETEL_Solar.dll
+G:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.csproj.AssemblyReference.cache
+G:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\bin\Debug\net7.0\Azure.Core.dll
+G:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\bin\Debug\net7.0\Azure.Identity.dll
+G:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+G:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+G:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+G:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+G:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+G:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+G:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+G:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+G:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+G:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\bin\Debug\net7.0\System.Drawing.Common.dll
+G:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+G:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\bin\Debug\net7.0\System.Memory.Data.dll
+G:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\bin\Debug\net7.0\System.Runtime.Caching.dll
+G:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+G:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\bin\Debug\net7.0\System.Security.Permissions.dll
+G:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\bin\Debug\net7.0\System.Windows.Extensions.dll
+G:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+G:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+G:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+G:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+G:\Fatec - ADS - 4 Período\4. Quarto\POO\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.csproj.CopyComplete
+C:\Users\Gabrielly\Downloads\IETEL_Solar\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Gabrielly\Downloads\IETEL_Solar\bin\Debug\net7.0\appsettings.json
+C:\Users\Gabrielly\Downloads\IETEL_Solar\bin\Debug\net7.0\IETEL_Solar.staticwebassets.runtime.json
+C:\Users\Gabrielly\Downloads\IETEL_Solar\bin\Debug\net7.0\IETEL_Solar.exe
+C:\Users\Gabrielly\Downloads\IETEL_Solar\bin\Debug\net7.0\IETEL_Solar.deps.json
+C:\Users\Gabrielly\Downloads\IETEL_Solar\bin\Debug\net7.0\IETEL_Solar.runtimeconfig.json
+C:\Users\Gabrielly\Downloads\IETEL_Solar\bin\Debug\net7.0\IETEL_Solar.dll
+C:\Users\Gabrielly\Downloads\IETEL_Solar\bin\Debug\net7.0\IETEL_Solar.pdb
+C:\Users\Gabrielly\Downloads\IETEL_Solar\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Gabrielly\Downloads\IETEL_Solar\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Gabrielly\Downloads\IETEL_Solar\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Gabrielly\Downloads\IETEL_Solar\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Gabrielly\Downloads\IETEL_Solar\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Gabrielly\Downloads\IETEL_Solar\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Gabrielly\Downloads\IETEL_Solar\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Gabrielly\Downloads\IETEL_Solar\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Gabrielly\Downloads\IETEL_Solar\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Gabrielly\Downloads\IETEL_Solar\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Gabrielly\Downloads\IETEL_Solar\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Gabrielly\Downloads\IETEL_Solar\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Gabrielly\Downloads\IETEL_Solar\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Gabrielly\Downloads\IETEL_Solar\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Gabrielly\Downloads\IETEL_Solar\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Gabrielly\Downloads\IETEL_Solar\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Gabrielly\Downloads\IETEL_Solar\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Gabrielly\Downloads\IETEL_Solar\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Gabrielly\Downloads\IETEL_Solar\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Gabrielly\Downloads\IETEL_Solar\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Gabrielly\Downloads\IETEL_Solar\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Gabrielly\Downloads\IETEL_Solar\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Gabrielly\Downloads\IETEL_Solar\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Gabrielly\Downloads\IETEL_Solar\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Gabrielly\Downloads\IETEL_Solar\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Gabrielly\Downloads\IETEL_Solar\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Gabrielly\Downloads\IETEL_Solar\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Gabrielly\Downloads\IETEL_Solar\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Gabrielly\Downloads\IETEL_Solar\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Gabrielly\Downloads\IETEL_Solar\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Gabrielly\Downloads\IETEL_Solar\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Gabrielly\Downloads\IETEL_Solar\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Gabrielly\Downloads\IETEL_Solar\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Gabrielly\Downloads\IETEL_Solar\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Gabrielly\Downloads\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.csproj.AssemblyReference.cache
+C:\Users\Gabrielly\Downloads\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabrielly\Downloads\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.AssemblyInfoInputs.cache
+C:\Users\Gabrielly\Downloads\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.AssemblyInfo.cs
+C:\Users\Gabrielly\Downloads\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.csproj.CoreCompileInputs.cache
+C:\Users\Gabrielly\Downloads\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gabrielly\Downloads\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.RazorAssemblyInfo.cache
+C:\Users\Gabrielly\Downloads\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.RazorAssemblyInfo.cs
+C:\Users\Gabrielly\Downloads\IETEL_Solar\obj\Debug\net7.0\staticwebassets\msbuild.IETEL_Solar.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Gabrielly\Downloads\IETEL_Solar\obj\Debug\net7.0\staticwebassets\msbuild.build.IETEL_Solar.props
+C:\Users\Gabrielly\Downloads\IETEL_Solar\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.IETEL_Solar.props
+C:\Users\Gabrielly\Downloads\IETEL_Solar\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.IETEL_Solar.props
+C:\Users\Gabrielly\Downloads\IETEL_Solar\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Gabrielly\Downloads\IETEL_Solar\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Gabrielly\Downloads\IETEL_Solar\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Gabrielly\Downloads\IETEL_Solar\obj\Debug\net7.0\scopedcss\bundle\IETEL_Solar.styles.css
+C:\Users\Gabrielly\Downloads\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.csproj.CopyComplete
+C:\Users\Gabrielly\Downloads\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.dll
+C:\Users\Gabrielly\Downloads\IETEL_Solar\obj\Debug\net7.0\refint\IETEL_Solar.dll
+C:\Users\Gabrielly\Downloads\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.pdb
+C:\Users\Gabrielly\Downloads\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.genruntimeconfig.cache
+C:\Users\Gabrielly\Downloads\IETEL_Solar\obj\Debug\net7.0\ref\IETEL_Solar.dll
+G:\IETEL_Solar\bin\Debug\net7.0\appsettings.Development.json
+G:\IETEL_Solar\bin\Debug\net7.0\appsettings.json
+G:\IETEL_Solar\bin\Debug\net7.0\IETEL_Solar.staticwebassets.runtime.json
+G:\IETEL_Solar\bin\Debug\net7.0\IETEL_Solar.exe
+G:\IETEL_Solar\bin\Debug\net7.0\IETEL_Solar.deps.json
+G:\IETEL_Solar\bin\Debug\net7.0\IETEL_Solar.runtimeconfig.json
+G:\IETEL_Solar\bin\Debug\net7.0\IETEL_Solar.dll
+G:\IETEL_Solar\bin\Debug\net7.0\IETEL_Solar.pdb
+G:\IETEL_Solar\bin\Debug\net7.0\Azure.Core.dll
+G:\IETEL_Solar\bin\Debug\net7.0\Azure.Identity.dll
+G:\IETEL_Solar\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\IETEL_Solar\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+G:\IETEL_Solar\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+G:\IETEL_Solar\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\IETEL_Solar\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+G:\IETEL_Solar\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\IETEL_Solar\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+G:\IETEL_Solar\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+G:\IETEL_Solar\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\IETEL_Solar\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+G:\IETEL_Solar\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+G:\IETEL_Solar\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+G:\IETEL_Solar\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+G:\IETEL_Solar\bin\Debug\net7.0\System.Drawing.Common.dll
+G:\IETEL_Solar\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+G:\IETEL_Solar\bin\Debug\net7.0\System.Memory.Data.dll
+G:\IETEL_Solar\bin\Debug\net7.0\System.Runtime.Caching.dll
+G:\IETEL_Solar\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+G:\IETEL_Solar\bin\Debug\net7.0\System.Security.Permissions.dll
+G:\IETEL_Solar\bin\Debug\net7.0\System.Windows.Extensions.dll
+G:\IETEL_Solar\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\IETEL_Solar\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\IETEL_Solar\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\IETEL_Solar\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\IETEL_Solar\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\IETEL_Solar\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\IETEL_Solar\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\IETEL_Solar\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+G:\IETEL_Solar\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+G:\IETEL_Solar\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+G:\IETEL_Solar\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\IETEL_Solar\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+G:\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.csproj.AssemblyReference.cache
+G:\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.GeneratedMSBuildEditorConfig.editorconfig
+G:\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.AssemblyInfoInputs.cache
+G:\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.AssemblyInfo.cs
+G:\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.csproj.CoreCompileInputs.cache
+G:\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.MvcApplicationPartsAssemblyInfo.cache
+G:\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.RazorAssemblyInfo.cache
+G:\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.RazorAssemblyInfo.cs
+G:\IETEL_Solar\obj\Debug\net7.0\staticwebassets\msbuild.IETEL_Solar.Microsoft.AspNetCore.StaticWebAssets.props
+G:\IETEL_Solar\obj\Debug\net7.0\staticwebassets\msbuild.build.IETEL_Solar.props
+G:\IETEL_Solar\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.IETEL_Solar.props
+G:\IETEL_Solar\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.IETEL_Solar.props
+G:\IETEL_Solar\obj\Debug\net7.0\staticwebassets.pack.json
+G:\IETEL_Solar\obj\Debug\net7.0\staticwebassets.build.json
+G:\IETEL_Solar\obj\Debug\net7.0\staticwebassets.development.json
+G:\IETEL_Solar\obj\Debug\net7.0\scopedcss\bundle\IETEL_Solar.styles.css
+G:\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.csproj.CopyComplete
+G:\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.dll
+G:\IETEL_Solar\obj\Debug\net7.0\refint\IETEL_Solar.dll
+G:\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.pdb
+G:\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.genruntimeconfig.cache
+G:\IETEL_Solar\obj\Debug\net7.0\ref\IETEL_Solar.dll
+C:\Users\arthu\Documents\Projetos\Ietel\IETEL_Solar\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\arthu\Documents\Projetos\Ietel\IETEL_Solar\bin\Debug\net7.0\appsettings.json
+C:\Users\arthu\Documents\Projetos\Ietel\IETEL_Solar\bin\Debug\net7.0\IETEL_Solar.staticwebassets.runtime.json
+C:\Users\arthu\Documents\Projetos\Ietel\IETEL_Solar\bin\Debug\net7.0\IETEL_Solar.exe
+C:\Users\arthu\Documents\Projetos\Ietel\IETEL_Solar\bin\Debug\net7.0\IETEL_Solar.deps.json
+C:\Users\arthu\Documents\Projetos\Ietel\IETEL_Solar\bin\Debug\net7.0\IETEL_Solar.runtimeconfig.json
+C:\Users\arthu\Documents\Projetos\Ietel\IETEL_Solar\bin\Debug\net7.0\IETEL_Solar.dll
+C:\Users\arthu\Documents\Projetos\Ietel\IETEL_Solar\bin\Debug\net7.0\IETEL_Solar.pdb
+C:\Users\arthu\Documents\Projetos\Ietel\IETEL_Solar\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\arthu\Documents\Projetos\Ietel\IETEL_Solar\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\arthu\Documents\Projetos\Ietel\IETEL_Solar\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\arthu\Documents\Projetos\Ietel\IETEL_Solar\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\arthu\Documents\Projetos\Ietel\IETEL_Solar\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\arthu\Documents\Projetos\Ietel\IETEL_Solar\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\arthu\Documents\Projetos\Ietel\IETEL_Solar\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\arthu\Documents\Projetos\Ietel\IETEL_Solar\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\arthu\Documents\Projetos\Ietel\IETEL_Solar\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\arthu\Documents\Projetos\Ietel\IETEL_Solar\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\arthu\Documents\Projetos\Ietel\IETEL_Solar\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\arthu\Documents\Projetos\Ietel\IETEL_Solar\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\arthu\Documents\Projetos\Ietel\IETEL_Solar\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\arthu\Documents\Projetos\Ietel\IETEL_Solar\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\arthu\Documents\Projetos\Ietel\IETEL_Solar\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\arthu\Documents\Projetos\Ietel\IETEL_Solar\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\arthu\Documents\Projetos\Ietel\IETEL_Solar\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\arthu\Documents\Projetos\Ietel\IETEL_Solar\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\arthu\Documents\Projetos\Ietel\IETEL_Solar\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\arthu\Documents\Projetos\Ietel\IETEL_Solar\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\arthu\Documents\Projetos\Ietel\IETEL_Solar\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\arthu\Documents\Projetos\Ietel\IETEL_Solar\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\arthu\Documents\Projetos\Ietel\IETEL_Solar\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\arthu\Documents\Projetos\Ietel\IETEL_Solar\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\arthu\Documents\Projetos\Ietel\IETEL_Solar\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\arthu\Documents\Projetos\Ietel\IETEL_Solar\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\arthu\Documents\Projetos\Ietel\IETEL_Solar\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\arthu\Documents\Projetos\Ietel\IETEL_Solar\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\arthu\Documents\Projetos\Ietel\IETEL_Solar\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\arthu\Documents\Projetos\Ietel\IETEL_Solar\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\arthu\Documents\Projetos\Ietel\IETEL_Solar\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\arthu\Documents\Projetos\Ietel\IETEL_Solar\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\arthu\Documents\Projetos\Ietel\IETEL_Solar\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\arthu\Documents\Projetos\Ietel\IETEL_Solar\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\arthu\Documents\Projetos\Ietel\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.csproj.AssemblyReference.cache
+C:\Users\arthu\Documents\Projetos\Ietel\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\Documents\Projetos\Ietel\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.AssemblyInfoInputs.cache
+C:\Users\arthu\Documents\Projetos\Ietel\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.AssemblyInfo.cs
+C:\Users\arthu\Documents\Projetos\Ietel\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.csproj.CoreCompileInputs.cache
+C:\Users\arthu\Documents\Projetos\Ietel\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\arthu\Documents\Projetos\Ietel\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.RazorAssemblyInfo.cache
+C:\Users\arthu\Documents\Projetos\Ietel\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.RazorAssemblyInfo.cs
+C:\Users\arthu\Documents\Projetos\Ietel\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.sourcelink.json
+C:\Users\arthu\Documents\Projetos\Ietel\IETEL_Solar\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\arthu\Documents\Projetos\Ietel\IETEL_Solar\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\arthu\Documents\Projetos\Ietel\IETEL_Solar\obj\Debug\net7.0\staticwebassets\msbuild.IETEL_Solar.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\arthu\Documents\Projetos\Ietel\IETEL_Solar\obj\Debug\net7.0\staticwebassets\msbuild.build.IETEL_Solar.props
+C:\Users\arthu\Documents\Projetos\Ietel\IETEL_Solar\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.IETEL_Solar.props
+C:\Users\arthu\Documents\Projetos\Ietel\IETEL_Solar\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.IETEL_Solar.props
+C:\Users\arthu\Documents\Projetos\Ietel\IETEL_Solar\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\arthu\Documents\Projetos\Ietel\IETEL_Solar\obj\Debug\net7.0\scopedcss\bundle\IETEL_Solar.styles.css
+C:\Users\arthu\Documents\Projetos\Ietel\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.csproj.CopyComplete
+C:\Users\arthu\Documents\Projetos\Ietel\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.dll
+C:\Users\arthu\Documents\Projetos\Ietel\IETEL_Solar\obj\Debug\net7.0\refint\IETEL_Solar.dll
+C:\Users\arthu\Documents\Projetos\Ietel\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.pdb
+C:\Users\arthu\Documents\Projetos\Ietel\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.genruntimeconfig.cache
+C:\Users\arthu\Documents\Projetos\Ietel\IETEL_Solar\obj\Debug\net7.0\ref\IETEL_Solar.dll
+C:\Users\arthu\OneDrive\Documentos\Projetos\Ietel\IETEL_Solar\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\arthu\OneDrive\Documentos\Projetos\Ietel\IETEL_Solar\bin\Debug\net7.0\appsettings.json
+C:\Users\arthu\OneDrive\Documentos\Projetos\Ietel\IETEL_Solar\bin\Debug\net7.0\IETEL_Solar.staticwebassets.runtime.json
+C:\Users\arthu\OneDrive\Documentos\Projetos\Ietel\IETEL_Solar\bin\Debug\net7.0\IETEL_Solar.exe
+C:\Users\arthu\OneDrive\Documentos\Projetos\Ietel\IETEL_Solar\bin\Debug\net7.0\IETEL_Solar.deps.json
+C:\Users\arthu\OneDrive\Documentos\Projetos\Ietel\IETEL_Solar\bin\Debug\net7.0\IETEL_Solar.runtimeconfig.json
+C:\Users\arthu\OneDrive\Documentos\Projetos\Ietel\IETEL_Solar\bin\Debug\net7.0\IETEL_Solar.dll
+C:\Users\arthu\OneDrive\Documentos\Projetos\Ietel\IETEL_Solar\bin\Debug\net7.0\IETEL_Solar.pdb
+C:\Users\arthu\OneDrive\Documentos\Projetos\Ietel\IETEL_Solar\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\arthu\OneDrive\Documentos\Projetos\Ietel\IETEL_Solar\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\arthu\OneDrive\Documentos\Projetos\Ietel\IETEL_Solar\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\arthu\OneDrive\Documentos\Projetos\Ietel\IETEL_Solar\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\arthu\OneDrive\Documentos\Projetos\Ietel\IETEL_Solar\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\arthu\OneDrive\Documentos\Projetos\Ietel\IETEL_Solar\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\arthu\OneDrive\Documentos\Projetos\Ietel\IETEL_Solar\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\arthu\OneDrive\Documentos\Projetos\Ietel\IETEL_Solar\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\arthu\OneDrive\Documentos\Projetos\Ietel\IETEL_Solar\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\arthu\OneDrive\Documentos\Projetos\Ietel\IETEL_Solar\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\arthu\OneDrive\Documentos\Projetos\Ietel\IETEL_Solar\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\arthu\OneDrive\Documentos\Projetos\Ietel\IETEL_Solar\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\arthu\OneDrive\Documentos\Projetos\Ietel\IETEL_Solar\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\arthu\OneDrive\Documentos\Projetos\Ietel\IETEL_Solar\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\arthu\OneDrive\Documentos\Projetos\Ietel\IETEL_Solar\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\arthu\OneDrive\Documentos\Projetos\Ietel\IETEL_Solar\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\arthu\OneDrive\Documentos\Projetos\Ietel\IETEL_Solar\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\arthu\OneDrive\Documentos\Projetos\Ietel\IETEL_Solar\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\arthu\OneDrive\Documentos\Projetos\Ietel\IETEL_Solar\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\arthu\OneDrive\Documentos\Projetos\Ietel\IETEL_Solar\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\arthu\OneDrive\Documentos\Projetos\Ietel\IETEL_Solar\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\arthu\OneDrive\Documentos\Projetos\Ietel\IETEL_Solar\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\arthu\OneDrive\Documentos\Projetos\Ietel\IETEL_Solar\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\arthu\OneDrive\Documentos\Projetos\Ietel\IETEL_Solar\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\arthu\OneDrive\Documentos\Projetos\Ietel\IETEL_Solar\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\arthu\OneDrive\Documentos\Projetos\Ietel\IETEL_Solar\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\arthu\OneDrive\Documentos\Projetos\Ietel\IETEL_Solar\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\arthu\OneDrive\Documentos\Projetos\Ietel\IETEL_Solar\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\arthu\OneDrive\Documentos\Projetos\Ietel\IETEL_Solar\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\arthu\OneDrive\Documentos\Projetos\Ietel\IETEL_Solar\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\arthu\OneDrive\Documentos\Projetos\Ietel\IETEL_Solar\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\arthu\OneDrive\Documentos\Projetos\Ietel\IETEL_Solar\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\arthu\OneDrive\Documentos\Projetos\Ietel\IETEL_Solar\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\arthu\OneDrive\Documentos\Projetos\Ietel\IETEL_Solar\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\arthu\OneDrive\Documentos\Projetos\Ietel\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.csproj.AssemblyReference.cache
+C:\Users\arthu\OneDrive\Documentos\Projetos\Ietel\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\OneDrive\Documentos\Projetos\Ietel\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.AssemblyInfoInputs.cache
+C:\Users\arthu\OneDrive\Documentos\Projetos\Ietel\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.AssemblyInfo.cs
+C:\Users\arthu\OneDrive\Documentos\Projetos\Ietel\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.csproj.CoreCompileInputs.cache
+C:\Users\arthu\OneDrive\Documentos\Projetos\Ietel\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\arthu\OneDrive\Documentos\Projetos\Ietel\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.RazorAssemblyInfo.cache
+C:\Users\arthu\OneDrive\Documentos\Projetos\Ietel\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.RazorAssemblyInfo.cs
+C:\Users\arthu\OneDrive\Documentos\Projetos\Ietel\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.sourcelink.json
+C:\Users\arthu\OneDrive\Documentos\Projetos\Ietel\IETEL_Solar\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\arthu\OneDrive\Documentos\Projetos\Ietel\IETEL_Solar\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\arthu\OneDrive\Documentos\Projetos\Ietel\IETEL_Solar\obj\Debug\net7.0\staticwebassets\msbuild.IETEL_Solar.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\arthu\OneDrive\Documentos\Projetos\Ietel\IETEL_Solar\obj\Debug\net7.0\staticwebassets\msbuild.build.IETEL_Solar.props
+C:\Users\arthu\OneDrive\Documentos\Projetos\Ietel\IETEL_Solar\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.IETEL_Solar.props
+C:\Users\arthu\OneDrive\Documentos\Projetos\Ietel\IETEL_Solar\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.IETEL_Solar.props
+C:\Users\arthu\OneDrive\Documentos\Projetos\Ietel\IETEL_Solar\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\arthu\OneDrive\Documentos\Projetos\Ietel\IETEL_Solar\obj\Debug\net7.0\scopedcss\bundle\IETEL_Solar.styles.css
+C:\Users\arthu\OneDrive\Documentos\Projetos\Ietel\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.csproj.CopyComplete
+C:\Users\arthu\OneDrive\Documentos\Projetos\Ietel\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.dll
+C:\Users\arthu\OneDrive\Documentos\Projetos\Ietel\IETEL_Solar\obj\Debug\net7.0\refint\IETEL_Solar.dll
+C:\Users\arthu\OneDrive\Documentos\Projetos\Ietel\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.pdb
+C:\Users\arthu\OneDrive\Documentos\Projetos\Ietel\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.genruntimeconfig.cache
+C:\Users\arthu\OneDrive\Documentos\Projetos\Ietel\IETEL_Solar\obj\Debug\net7.0\ref\IETEL_Solar.dll
+C:\Users\Mepper\OneDrive\Documentos\Projetos\IETEL_Solar\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Mepper\OneDrive\Documentos\Projetos\IETEL_Solar\bin\Debug\net7.0\appsettings.json
+C:\Users\Mepper\OneDrive\Documentos\Projetos\IETEL_Solar\bin\Debug\net7.0\IETEL_Solar.staticwebassets.runtime.json
+C:\Users\Mepper\OneDrive\Documentos\Projetos\IETEL_Solar\bin\Debug\net7.0\IETEL_Solar.exe
+C:\Users\Mepper\OneDrive\Documentos\Projetos\IETEL_Solar\bin\Debug\net7.0\IETEL_Solar.deps.json
+C:\Users\Mepper\OneDrive\Documentos\Projetos\IETEL_Solar\bin\Debug\net7.0\IETEL_Solar.runtimeconfig.json
+C:\Users\Mepper\OneDrive\Documentos\Projetos\IETEL_Solar\bin\Debug\net7.0\IETEL_Solar.dll
+C:\Users\Mepper\OneDrive\Documentos\Projetos\IETEL_Solar\bin\Debug\net7.0\IETEL_Solar.pdb
+C:\Users\Mepper\OneDrive\Documentos\Projetos\IETEL_Solar\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Mepper\OneDrive\Documentos\Projetos\IETEL_Solar\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Mepper\OneDrive\Documentos\Projetos\IETEL_Solar\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mepper\OneDrive\Documentos\Projetos\IETEL_Solar\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Mepper\OneDrive\Documentos\Projetos\IETEL_Solar\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Mepper\OneDrive\Documentos\Projetos\IETEL_Solar\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Mepper\OneDrive\Documentos\Projetos\IETEL_Solar\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Mepper\OneDrive\Documentos\Projetos\IETEL_Solar\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Mepper\OneDrive\Documentos\Projetos\IETEL_Solar\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Mepper\OneDrive\Documentos\Projetos\IETEL_Solar\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Mepper\OneDrive\Documentos\Projetos\IETEL_Solar\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Mepper\OneDrive\Documentos\Projetos\IETEL_Solar\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Mepper\OneDrive\Documentos\Projetos\IETEL_Solar\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Mepper\OneDrive\Documentos\Projetos\IETEL_Solar\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Mepper\OneDrive\Documentos\Projetos\IETEL_Solar\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Mepper\OneDrive\Documentos\Projetos\IETEL_Solar\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Mepper\OneDrive\Documentos\Projetos\IETEL_Solar\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Mepper\OneDrive\Documentos\Projetos\IETEL_Solar\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Mepper\OneDrive\Documentos\Projetos\IETEL_Solar\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Mepper\OneDrive\Documentos\Projetos\IETEL_Solar\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mepper\OneDrive\Documentos\Projetos\IETEL_Solar\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Mepper\OneDrive\Documentos\Projetos\IETEL_Solar\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Mepper\OneDrive\Documentos\Projetos\IETEL_Solar\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Mepper\OneDrive\Documentos\Projetos\IETEL_Solar\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Mepper\OneDrive\Documentos\Projetos\IETEL_Solar\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mepper\OneDrive\Documentos\Projetos\IETEL_Solar\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mepper\OneDrive\Documentos\Projetos\IETEL_Solar\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mepper\OneDrive\Documentos\Projetos\IETEL_Solar\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mepper\OneDrive\Documentos\Projetos\IETEL_Solar\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Mepper\OneDrive\Documentos\Projetos\IETEL_Solar\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Mepper\OneDrive\Documentos\Projetos\IETEL_Solar\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Mepper\OneDrive\Documentos\Projetos\IETEL_Solar\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Mepper\OneDrive\Documentos\Projetos\IETEL_Solar\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mepper\OneDrive\Documentos\Projetos\IETEL_Solar\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Mepper\OneDrive\Documentos\Projetos\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.csproj.AssemblyReference.cache
+C:\Users\Mepper\OneDrive\Documentos\Projetos\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mepper\OneDrive\Documentos\Projetos\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.AssemblyInfoInputs.cache
+C:\Users\Mepper\OneDrive\Documentos\Projetos\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.AssemblyInfo.cs
+C:\Users\Mepper\OneDrive\Documentos\Projetos\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.csproj.CoreCompileInputs.cache
+C:\Users\Mepper\OneDrive\Documentos\Projetos\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mepper\OneDrive\Documentos\Projetos\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.RazorAssemblyInfo.cache
+C:\Users\Mepper\OneDrive\Documentos\Projetos\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.RazorAssemblyInfo.cs
+C:\Users\Mepper\OneDrive\Documentos\Projetos\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.sourcelink.json
+C:\Users\Mepper\OneDrive\Documentos\Projetos\IETEL_Solar\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Mepper\OneDrive\Documentos\Projetos\IETEL_Solar\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Mepper\OneDrive\Documentos\Projetos\IETEL_Solar\obj\Debug\net7.0\staticwebassets\msbuild.IETEL_Solar.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Mepper\OneDrive\Documentos\Projetos\IETEL_Solar\obj\Debug\net7.0\staticwebassets\msbuild.build.IETEL_Solar.props
+C:\Users\Mepper\OneDrive\Documentos\Projetos\IETEL_Solar\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.IETEL_Solar.props
+C:\Users\Mepper\OneDrive\Documentos\Projetos\IETEL_Solar\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.IETEL_Solar.props
+C:\Users\Mepper\OneDrive\Documentos\Projetos\IETEL_Solar\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Mepper\OneDrive\Documentos\Projetos\IETEL_Solar\obj\Debug\net7.0\scopedcss\bundle\IETEL_Solar.styles.css
+C:\Users\Mepper\OneDrive\Documentos\Projetos\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.csproj.CopyComplete
+C:\Users\Mepper\OneDrive\Documentos\Projetos\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.dll
+C:\Users\Mepper\OneDrive\Documentos\Projetos\IETEL_Solar\obj\Debug\net7.0\refint\IETEL_Solar.dll
+C:\Users\Mepper\OneDrive\Documentos\Projetos\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.pdb
+C:\Users\Mepper\OneDrive\Documentos\Projetos\IETEL_Solar\obj\Debug\net7.0\IETEL_Solar.genruntimeconfig.cache
+C:\Users\Mepper\OneDrive\Documentos\Projetos\IETEL_Solar\obj\Debug\net7.0\ref\IETEL_Solar.dll

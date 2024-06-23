@@ -1,0 +1,265 @@
+<!doctype html>
+  <html lang="pt-br">
+	<head>
+	<meta charset="utf-8">
+        <title> Funcionamento </title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        
+        <!-- Bootstrap e CSS -->
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css">
+        <link href="~/css/estilo.css" rel="stylesheet" type="text/css">
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet" integrity="sha384-HyZ9BlizpkTN8gDzL3b9IcfZkAMsVgwekg1OECcF7S+cm5lP5nLOvFUbd1VlRM2i" crossorigin="anonymous">
+
+        <!-- Bootstrap.min.js -->
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous"></script>
+	<script src="https://kit.fontawesome.com/4154c25085.js" crossorigin="anonymous"></script>
+	
+	</head>
+
+	<body>
+
+        <!-- Menu Responsivo -->
+        <nav class="navbar navbar-expand-lg navbar-light bg-white">
+            
+            <div class="container-fluid">
+                
+                <a href="index"> <img class="logomarca" src="~/imagens/logo_ietel.png">  </a>
+                <a href="index"> <img class="logotipo"  src="~/imagens/letra_ietel.png"> </a>
+
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <div class="collapse navbar-collapse" id="navbarNav">
+                    <ul class="navbar-nav">
+
+                        <li class="nav-item">
+                            <a class="nav-link" href="/informacao/funcionamento"> Funcionamento </a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link" href="/calculadora/calculadoraSolar"> Calculadora Solar </a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link" href="/orcamento/orcamento"> Orçamento </a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link" href="/informacao/sobreNos"> Sobre Nós </a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link" href="/vaga/listaVagaCandidato"> Trabalhe Conosco </a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link" href="/informacao/contato"> Contato </a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link" href="/login/login"> <button class="login"> Login </button> </a>
+                        </li>
+
+                    </ul>
+                </div>
+            </div>
+        </nav>
+
+
+        <!-- Funcionamento -->
+	    <div class="container" style="padding: 1.7%;"> 
+
+
+            <!-- Título -->
+            <p class="titulo"> <font color="#f58934"> ENERGIA SOLAR </font> : </p>
+
+
+            <!-- O que é ? -->
+            <div class="card mb-3" style="margin-top: 28px;">
+                <div class="row g-0">
+                    <div class="col-md-4">
+                        <img class="imagem_funcionamento" src="~/imagens/fabrica_solar.gif" class="img-fluid rounded-start" alt="...">
+                    </div>
+                    <div class="col-md-8">
+                        <div class="card-body">
+                            <p class="titulo_funcionamento"> O que é ? </p>
+                            <p class="texto_funcionamento"> A Energia Solar Fotovoltaica é obtida a partir da conversão direta da luz emitida pelo sol em eletricidade.
+                                Quando as partículas de energia provenientes do Sol (fotóns) incidem sobre os painéis, ocorre a geração de
+                                uma corrente elétrica que pode ser direcionada e utilizada tanto nas áreas urbanas, quanto nas rurais. </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+            <!-- Tipos de Sistemas -->
+            <div class="row">
+
+                <div class="col-sm-6 mb-3 mb-sm-0">
+                    <div class="card">
+                        <div class="card-body">
+                            <p class="titulo_funcionamento"> Sistema On-grid </p>
+                            <p class="texto_funcionamento"> Sistema ligado à rede pública de distribuição, na qual o excesso de energia 
+                            vai para a distribuidora gerando créditos que podem ser usados em até 5 anos. Da mesma maneira, se a produção 
+                            estiver baixa, a concessionária entra automaticamente para suprir qualquer necessidade. Esse modelo costuma ter
+                            um valor de investimento menor.</p>
+                            <img class="imagem_funcionamento" src="~/imagens/on_grid.gif">
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-6">
+                    <div class="card">
+                        <div class="card-body">
+                            <p class="titulo_funcionamento"> Sistema Off-grid </p>
+                            <p class="texto_funcionamento"> Sistema que utiliza baterias próprias, as quais são responsáveis por armazenar a
+                            energia excedente produzida. Possui funcionamento completamente autônomo e um controlador de carga para a 
+                            proteção dos equipamentos. Assim, abastece os componentes elétricos no local. Esse modelo costuma ter um valor 
+                            de investimento maior.</p>
+                            <img class="imagem_funcionamento" src="~/imagens/off_grid.gif">
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+            <!-- Soluções -->
+            <div class="card" style="margin-bottom: 37px;">
+                <div class="card-body">
+                    <p class="titulo_funcionamento"> Soluções: </p>
+
+                    <div class="card-group">
+
+                        <div class="card" style="background: white; margin-top: 5px;">
+                            <i class="icone fa fa-store" style="margin-bottom: 4px;"></i>
+                            <div class="card-body">
+                                <p class="texto_solucoes"> Comerciais </p>
+                            </div>
+                        </div>
+
+                        <div class="card" style="background: white; margin-top: 5px;">
+                            <i class="icone fa fa-industry" style="font-size: 74px;"></i>
+                            <div class="card-body">
+                                <p class="texto_solucoes"> Empresariais </p>
+                            </div>
+                        </div>
+
+                        <div class="card" style="background: white; margin-top: 5px;">
+                            <i class="icone fa fa-home" style="font-size: 74px;"></i>
+                            <div class="card-body">
+                                <p class="texto_solucoes"> Residenciais </p>
+                            </div>
+                        </div>
+                        
+                        <div class="card" style="background: white; margin-top: 5px;">
+                            <i class="icone fa fa-warehouse" style="margin-bottom: 4px;"></i>
+                            <div class="card-body">
+                                <p class="texto_solucoes"> Rurais </p>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+
+
+            <!-- Vantagens -->
+            <div class="card">
+                <img class="imagem_vantagens" src="~/imagens/energia.png">
+                <div class="card-body">
+                    <p class="titulo_funcionamento" style="margin-bottom: 5px;"> Vantagens: </p>
+                </div>
+                <ul class="list-group list-group-flush">
+                    <li class="list-group-item"> Econômica, pois permite redução no valor da conta de luz. </li>
+                    <li class="list-group-item"> Segura, com riscos de acidentes reduzidos. </li>
+                    <li class="list-group-item"> Necessidade de manutenção mínima. </li>
+                    <li class="list-group-item"> Alta durabilidade. </li>
+                    <li class="list-group-item"> Instalação rápida. </li>
+                    <li class="list-group-item"> Sustentável. </li>
+                    <li class="list-group-item"> Renovável. </li>
+                </ul>
+            </div>
+
+
+            <!-- Projetos -->
+            <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="true">
+                
+                <p class="titulo_funcionamento" style="margin-top: 20px; margin-left: 18px; margin-right: 18px;"> Projetos: </p>
+                
+                <div class="carousel-indicators">
+                    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+                    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+                    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+                    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="3" aria-label="Slide 4"></button>
+                    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="4" aria-label="Slide 5"></button>
+                </div>
+
+                <div class="carousel-inner">
+                    <div class="carousel-item active">
+                        <img class="imagem_carousel" src="~/imagens/img_placa_solar1.png">
+                    </div>
+                    
+                    <div class="carousel-item">
+                        <img class="imagem_carousel" src="~/imagens/img_placa_solar2.png">
+                    </div>
+                    
+                    <div class="carousel-item"> 
+                        <img class="imagem_carousel" src="~/imagens/img_placa_solar3.png">
+                    </div>
+    
+                    <div class="carousel-item"> 
+                        <img class="imagem_carousel" src="~/imagens/img_conversor.png">
+                    </div>
+    
+                    <div class="carousel-item"> 
+                        <img class="imagem_carousel" src="~/imagens/img_casa.png">
+                    </div>
+                </div>
+                
+                <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+                    <span aria-hidden="true"> <i class="seta fa fa-angle-left"> </i> </span>
+                    <span class="visually-hidden">Previous</span>
+                </button>
+                
+                <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+                    <span aria-hidden="true"> <i class="seta fa fa-angle-right"> </i> </span>
+                    <span class="visually-hidden">Next</span>
+                </button>
+            </div>
+            
+        </div>
+
+        <!-- Rodapé -->
+	<footer>
+            <table width="100%">
+            <th>
+               
+            <div class="social-icons">
+                
+                Nos Siga:
+                <!-- Ícone do Facebook -->
+                <a href="https://www.facebook.com/ietelsolar" target="_blank">
+                    <i class="fa-brands fa-square-facebook"></i> </a>
+                <!-- Ícone do Instagram -->
+                <a href="https://www.instagram.com/ietelsolar/" target="_blank">
+                    <i class="fa-brands fa-square-instagram"></i></a>
+
+                <!-- Ícone do Linkedin -->
+                <a href="https://www.linkedin.com/in/ietel-solar-7754a2219/" target="_blank">
+                    <i class="fa-brands fa-linkedin"></i> </a> 
+                
+                    <th width="20%">Telefone: 17 3249-1065</br>
+                    17 98139-2242</th>
+                    
+                    <th width="40%">Endereço: Av.Gabriel Péres Martins,311, Distrito Industrial</br>
+                    Potirendaba - SP, 15105-000</th>
+                    
+                    <th width="20%">Horário: 08h às 18h</th></tr>
+            </div>
+            </table> 
+        </footer>
+
+	</body>
+  </html>

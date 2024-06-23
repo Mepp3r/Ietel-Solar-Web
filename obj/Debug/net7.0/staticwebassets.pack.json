@@ -1,0 +1,89 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Mepper\\OneDrive\\Documentos\\Projetos\\IETEL_Solar\\wwwroot\\css\\estilo.css",
+      "PackagePath": "staticwebassets\\css\\estilo.css"
+    },
+    {
+      "Id": "C:\\Users\\Mepper\\OneDrive\\Documentos\\Projetos\\IETEL_Solar\\wwwroot\\imagens\\energia.png",
+      "PackagePath": "staticwebassets\\imagens\\energia.png"
+    },
+    {
+      "Id": "C:\\Users\\Mepper\\OneDrive\\Documentos\\Projetos\\IETEL_Solar\\wwwroot\\imagens\\fabrica_solar.gif",
+      "PackagePath": "staticwebassets\\imagens\\fabrica_solar.gif"
+    },
+    {
+      "Id": "C:\\Users\\Mepper\\OneDrive\\Documentos\\Projetos\\IETEL_Solar\\wwwroot\\imagens\\imagem_card_1.png",
+      "PackagePath": "staticwebassets\\imagens\\imagem_card_1.png"
+    },
+    {
+      "Id": "C:\\Users\\Mepper\\OneDrive\\Documentos\\Projetos\\IETEL_Solar\\wwwroot\\imagens\\imagem_card_2.png",
+      "PackagePath": "staticwebassets\\imagens\\imagem_card_2.png"
+    },
+    {
+      "Id": "C:\\Users\\Mepper\\OneDrive\\Documentos\\Projetos\\IETEL_Solar\\wwwroot\\imagens\\imagem_card_3.png",
+      "PackagePath": "staticwebassets\\imagens\\imagem_card_3.png"
+    },
+    {
+      "Id": "C:\\Users\\Mepper\\OneDrive\\Documentos\\Projetos\\IETEL_Solar\\wwwroot\\imagens\\img_casa.png",
+      "PackagePath": "staticwebassets\\imagens\\img_casa.png"
+    },
+    {
+      "Id": "C:\\Users\\Mepper\\OneDrive\\Documentos\\Projetos\\IETEL_Solar\\wwwroot\\imagens\\img_conversor.png",
+      "PackagePath": "staticwebassets\\imagens\\img_conversor.png"
+    },
+    {
+      "Id": "C:\\Users\\Mepper\\OneDrive\\Documentos\\Projetos\\IETEL_Solar\\wwwroot\\imagens\\img_placa_solar1.png",
+      "PackagePath": "staticwebassets\\imagens\\img_placa_solar1.png"
+    },
+    {
+      "Id": "C:\\Users\\Mepper\\OneDrive\\Documentos\\Projetos\\IETEL_Solar\\wwwroot\\imagens\\img_placa_solar2.png",
+      "PackagePath": "staticwebassets\\imagens\\img_placa_solar2.png"
+    },
+    {
+      "Id": "C:\\Users\\Mepper\\OneDrive\\Documentos\\Projetos\\IETEL_Solar\\wwwroot\\imagens\\img_placa_solar3.png",
+      "PackagePath": "staticwebassets\\imagens\\img_placa_solar3.png"
+    },
+    {
+      "Id": "C:\\Users\\Mepper\\OneDrive\\Documentos\\Projetos\\IETEL_Solar\\wwwroot\\imagens\\letra_ietel.png",
+      "PackagePath": "staticwebassets\\imagens\\letra_ietel.png"
+    },
+    {
+      "Id": "C:\\Users\\Mepper\\OneDrive\\Documentos\\Projetos\\IETEL_Solar\\wwwroot\\imagens\\logo_ietel.png",
+      "PackagePath": "staticwebassets\\imagens\\logo_ietel.png"
+    },
+    {
+      "Id": "C:\\Users\\Mepper\\OneDrive\\Documentos\\Projetos\\IETEL_Solar\\wwwroot\\imagens\\off_grid.gif",
+      "PackagePath": "staticwebassets\\imagens\\off_grid.gif"
+    },
+    {
+      "Id": "C:\\Users\\Mepper\\OneDrive\\Documentos\\Projetos\\IETEL_Solar\\wwwroot\\imagens\\on_grid.gif",
+      "PackagePath": "staticwebassets\\imagens\\on_grid.gif"
+    },
+    {
+      "Id": "C:\\Users\\Mepper\\OneDrive\\Documentos\\Projetos\\IETEL_Solar\\wwwroot\\imagens\\placa_solar.gif",
+      "PackagePath": "staticwebassets\\imagens\\placa_solar.gif"
+    },
+    {
+      "Id": "C:\\Users\\Mepper\\OneDrive\\Documentos\\Projetos\\IETEL_Solar\\wwwroot\\uploads\\energia.png",
+      "PackagePath": "staticwebassets\\uploads\\energia.png"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.IETEL_Solar.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.IETEL_Solar.props",
+      "PackagePath": "build\\IETEL_Solar.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.IETEL_Solar.props",
+      "PackagePath": "buildMultiTargeting\\IETEL_Solar.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.IETEL_Solar.props",
+      "PackagePath": "buildTransitive\\IETEL_Solar.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

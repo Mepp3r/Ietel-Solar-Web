@@ -1,0 +1,177 @@
+<!doctype html>
+  <html lang="pt-br">
+	<head>
+	<meta charset="utf-8">
+        <title> Login </title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <!-- Bootstrap e CSS -->
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css">
+        <link href="~/css/estilo.css" rel="stylesheet" type="text/css">
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet" integrity="sha384-HyZ9BlizpkTN8gDzL3b9IcfZkAMsVgwekg1OECcF7S+cm5lP5nLOvFUbd1VlRM2i" crossorigin="anonymous">
+	<script src="https://kit.fontawesome.com/4154c25085.js" crossorigin="anonymous"></script>
+
+	</head>
+
+	<body>
+
+        <!-- Menu Responsivo -->
+        <nav class="navbar navbar-expand-lg navbar-light bg-white">
+            
+            <div class="container-fluid">
+                
+                <a href="/informacao/index"> <img class="logomarca" src="~/imagens/logo_ietel.png">  </a>
+                <a href="/informacao/index"> <img class="logotipo"  src="~/imagens/letra_ietel.png"> </a>
+
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <div class="collapse navbar-collapse" id="navbarNav">
+                    <ul class="navbar-nav">
+
+                        <li class="nav-item">
+                            <a class="nav-link" href="/informacao/funcionamento"> Funcionamento </a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link" href="/calculadora/calculadoraSolar"> Calculadora Solar </a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link" href="/orcamento/orcamento"> Orçamento </a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link" href="/informacao/sobreNos"> Sobre Nós </a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link" href="/vaga/listaVagaCandidato"> Trabalhe Conosco </a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link" href="/informacao/contato"> Contato </a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link" href="/login/login"> <button class="login"> Login </button> </a>
+                        </li>
+
+                    </ul>
+                </div>
+            </div>
+        </nav>
+
+
+        <!-- Login -->
+	    <div class="container" style="padding: 1.7%;"> 
+
+
+            <!-- Título -->
+            <p class="titulo"> Acesse a sua <font color="#f58934"> CONTA </font>: </p>
+
+
+            <!-- Formulário de Cadastro -->
+		    <form action="login" method="POST" enctype="multipart/form-data">
+                
+                
+                <!-- Usuário -->
+                <div class="form-group">
+                    <div class="col-md-6 offset-md-3">
+                        <label class="texto_input" style="margin-top: 6px;"> Usuário: </label>
+                        <div class="input_icone_login">
+                            <input type="text" id="usuario" name="usuario" class="form-control" required>
+                            <i class="fa fa-user" style="color: #f58934;"></i>
+                        </div>
+                    </div>
+                </div>
+
+
+                <!-- Senha -->
+                <div class="form-group">
+                    <div class="col-md-6 offset-md-3">
+                        <label class="texto_input"> Senha: </label>
+                        <div class="input_icone_login">
+                            <input type="password" id="senha" name="senha" class="form-control" required>
+                            <i class="fa fa-solid fa-eye"       id="text" style="color: #f58934;"> </i>
+                            <i class="fa fa-solid fa-eye-slash" id="pass" style="color: #f58934;"> </i>
+                        </div>
+                    </div>
+                </div>
+
+
+                <!-- Botão -->
+                <div class="form-group">
+                    <div class="col-md-6 offset-md-3">
+                        <input type="submit" value="ENTRAR" name="entrar" id="entrar" class="botao" style="margin-top: 40px; margin-bottom: 144px;">
+                    </div>
+                </div>
+
+            </form>
+        </div>
+
+        <!-- Rodapé -->
+	<footer>
+            <table width="100%">
+            <th> 
+            <div class="social-icons">
+                
+                Nos Siga:
+                <!-- Ícone do Facebook -->
+                <a href="https://www.facebook.com/ietelsolar" target="_blank">
+                    <i class="fa-brands fa-square-facebook"></i> </a>
+                <!-- Ícone do Instagram -->
+                <a href="https://www.instagram.com/ietelsolar/" target="_blank">
+                    <i class="fa-brands fa-square-instagram"></i></a>
+
+                <!-- Ícone do Linkedin -->
+                <a href="https://www.linkedin.com/in/ietel-solar-7754a2219/" target="_blank">
+                    <i class="fa-brands fa-linkedin"></i> </a> 
+
+                    <th width="20%">Telefone: 17 3249-1065</br>
+                    17 98139-2242</th>
+                    
+                    <th width="40%">Endereço: Av.Gabriel Péres Martins,311, Distrito Industrial</br>
+                    Potirendaba - SP, 15105-000</th>
+                    
+                    <th width="20%">Horário: 08h às 18h</th></tr>  
+
+            </div>
+            </table>
+        </footer>
+
+	</body>
+  </html>
+
+
+
+  <!-- Visualização -->
+  <script>
+
+    var tipo = document.getElementById('senha');
+
+    document.getElementById('pass').addEventListener('click', () => 
+    {
+        if(tipo.value) 
+        {
+            tipo.type == 'password' ? tipo.type = 'text' : tipo.type = 'password';
+            tipo.focus();
+            document.getElementById('pass').style.display = 'none';
+            document.getElementById('text').style.display = 'inline-block';
+        }
+    });
+
+    document.getElementById('text').addEventListener('click', () => 
+    {
+        if(tipo.value) 
+        {
+            tipo.type == 'text' ? tipo.type = 'password' : tipo.type = 'text';
+            tipo.focus();
+            document.getElementById('text').style.display = 'none';
+            document.getElementById('pass').style.display = 'inline-block';
+        }
+    });
+
+  </script>

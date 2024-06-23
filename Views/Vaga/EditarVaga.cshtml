@@ -1,0 +1,234 @@
+@model Vagas
+
+<!doctype html>
+  <html lang="pt-br">
+	<head>
+	<meta charset="utf-8">
+        <title> Editar Vaga </title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        
+        <!-- Bootstrap e CSS -->
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+        <link href="~/css/estilo.css" rel="stylesheet" type="text/css">
+
+	</head>
+
+	<body>
+
+        <!-- Menu Responsivo -->
+        <nav class="navbar navbar-expand-lg navbar-light bg-white">
+            
+            <div class="container-fluid">
+                
+                <a> <img class="logomarca" src="~/imagens/logo_ietel.png">  </a>
+                <a> <img class="logotipo"  src="~/imagens/letra_ietel.png"> </a>
+
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <div class="collapse navbar-collapse" id="navbarNav">
+                    <ul class="navbar-nav" style="gap: 80px">
+
+                        <li class="nav-item">
+                            <a class="nav-link" href="/agendamento/agendamento"> Agendamento </a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link" href="/orcamento/listaOrcamento"> Lista de Orçamentos </a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link" href="/vaga/adicionaVaga"> Adicionar Vagas </a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link" href="/vaga/listaVaga"> Lista de Candidatos </a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link" href="/informacao/index"> <button class="login"> Sair </button> </a>
+                        </li>
+
+                    </ul>
+                </div>
+            </div>
+        </nav>
+
+
+        <!-- Adicionar Vagas -->
+	    <div class="container" style="padding: 1.7%;"> 
+
+
+            <!-- Título -->
+            <p class="titulo"> Edite a <font color="#f58934"> VAGA </font>: </p>
+
+
+            <!-- Formulário de Cadastro -->
+		    <form action="\vaga\editarVaga" method="POST" enctype="multipart/form-data">
+      
+
+                <table width="100%">
+                    <tr>
+                        <!-- Cargo -->  
+                        <td> <label class="texto_input_cadastro" style="margin-right: 42px;"> Cargo: </label> </td>
+                        <td width="92%"> <input value="@Model.Cargo" type="text" id="cargo" name="cargo" class="form-control" required style="width: 96%; margin-left: 0px;"> </td>
+                    </tr>
+                </table>
+
+
+            @if(@Model.Tipo == "Tempo Integral")
+            {                <table width="100%">
+                    <tr>
+                        <!-- Tipo --> 
+                        <td> <label class="texto_input_cadastro" style="margin-right: 55px;"> Tipo: </label> </td>
+                        <td width="92%"> 
+                            <select name="tipo" class="horario" style="width: 96%; margin-left: 0px;">
+                                <option value="Tempo Integral"> Tempo Integral </option>
+                                <option value="Estágio"> Estágio </option>
+                                <option value="Meio Período"> Meio Período </option>
+                                <option value="Trainee"> Trainee </option>
+                            </select>
+                        </td>
+                    </tr>
+                </table>
+            }
+
+            @if(@Model.Tipo == "Estágio")
+            {                <table width="100%">
+                    <tr>
+                        <!-- Tipo --> 
+                        <td> <label class="texto_input_cadastro" style="margin-right: 55px;"> Tipo: </label> </td>
+                        <td width="92%"> 
+                            <select name="tipo" class="horario" style="width: 96%; margin-left: 0px;">
+                                <option value="Estágio"> Estágio </option>
+                                <option value="Tempo Integral"> Tempo Integral </option>
+                                <option value="Meio Período"> Meio Período </option>
+                                <option value="Trainee"> Trainee </option>
+                            </select>
+                        </td>
+                    </tr>
+                </table>
+            }
+
+            @if(@Model.Tipo == "Meio Período")
+            {                <table width="100%">
+                    <tr>
+                        <!-- Tipo --> 
+                        <td> <label class="texto_input_cadastro" style="margin-right: 55px;"> Tipo: </label> </td>
+                        <td width="92%"> 
+                            <select name="tipo" class="horario" style="width: 96%; margin-left: 0px;">
+                                <option value="Meio Período"> Meio Período </option>
+                                <option value="Tempo Integral"> Tempo Integral </option>
+                                <option value="Estágio"> Estágio </option>
+                                <option value="Trainee"> Trainee </option>
+                            </select>
+                        </td>
+                    </tr>
+                </table>
+            }
+
+            @if(@Model.Tipo == "Trainee")
+            {                <table width="100%">
+                    <tr>
+                        <!-- Tipo --> 
+                        <td> <label class="texto_input_cadastro" style="margin-right: 55px;"> Tipo: </label> </td>
+                        <td width="92%"> 
+                            <select name="tipo" class="horario" style="width: 96%; margin-left: 0px;">
+                                <option value="Trainee"> Trainee </option>
+                                <option value="Tempo Integral"> Tempo Integral </option>
+                                <option value="Estágio"> Estágio </option>
+                                <option value="Meio Período"> Meio Período </option>
+                            </select>
+                        </td>
+                    </tr>
+                </table>
+            }
+
+                
+                <table width="100%">
+                    <tr>
+                        <!-- Local -->  
+                        <td> <label class="texto_input_cadastro" style="margin-right: 50px;"> Local: </label> </td>
+                        <td width="92%"> <input value="@Model.Local" type="text" id="local" name="local" class="form-control" required style="width: 96%; margin-left: 0px;"> </td>
+                    </tr>
+                </table>
+
+            
+            @if(@Model.Modelo == "Presencial")
+            {
+                <table width="100%">
+                    <tr>
+                        <!-- Modelo --> 
+                        <td> <label class="texto_input_cadastro" style="margin-right: 32px;"> Modelo: </label> </td>
+                        <td width="92%"> 
+                            <select name="modelo" class="horario" style="width: 96%; margin-left: 0px;">
+                                <option value="Presencial"> Presencial </option>
+                                <option value="Online"> Online </option>
+                                <option value="Híbrido"> Híbrido </option>
+                            </select>
+                        </td>
+                    </tr>
+                </table>
+            }
+
+
+            @if(@Model.Modelo == "Online")
+            {
+                <table width="100%">
+                    <tr>
+                        <!-- Modelo --> 
+                        <td> <label class="texto_input_cadastro" style="margin-right: 32px;"> Modelo: </label> </td>
+                        <td width="92%"> 
+                            <select name="modelo" class="horario" style="width: 96%; margin-left: 0px;">
+                                <option value="Online"> Online </option>
+                                <option value="Presencial"> Presencial </option>
+                                <option value="Híbrido"> Híbrido </option>
+                            </select>
+                        </td>
+                    </tr>
+                </table>
+            }
+
+            @if(@Model.Modelo == "Híbrido")
+            {
+                <table width="100%">
+                    <tr>
+                        <!-- Modelo --> 
+                        <td> <label class="texto_input_cadastro" style="margin-right: 32px;"> Modelo: </label> </td>
+                        <td width="92%"> 
+                            <select name="modelo" class="horario" style="width: 96%; margin-left: 0px;">
+                                <option value="Híbrido"> Híbrido </option>
+                                <option value="Online"> Online </option>
+                                <option value="Presencial"> Presencial </option>
+                            </select>
+                        </td>
+                    </tr>
+                </table>
+            }
+
+
+                <table width="100%">
+                    <tr>
+                        <!-- Descrição --> 
+                        <td width="8%"> <label class="texto_input_cadastro" style="margin-right: 15px;"> Descrição: </label> </td>
+                        <td> 
+                            <div class="mensagem_textarea">
+                                <textarea class="mensagem" id="descricao" name="descricao"> @Model.Descricao </textarea>
+                            </div> 
+                        </td>
+                    </tr>
+                </table>
+
+
+                <!-- Botão -->
+                <div class="form-group">
+                    <div class="col-md-6 offset-md-3">
+                        <input type="submit" value="SALVAR" name="salvar" id="salvar" class="botao" style="margin-top: 15px; margin-bottom: 4px;">
+                    </div>
+                </div>
+                
+            </form>
+        </div>
+	</body>
+  </html>
